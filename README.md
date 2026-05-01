@@ -77,6 +77,7 @@ The dataset contains monthly website performance metrics:
 ---
 ## Dashboard
 
+<img width="1186" height="625" alt="image" src="https://github.com/user-attachments/assets/2872386b-bfd4-4af0-b1ad-0f86267e8bdd" />
 
 
 ## 📈 Key Insight
